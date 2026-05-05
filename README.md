@@ -2,7 +2,7 @@
 
 **Turn customer reviews into product decisions — in seconds.**
 
-![MerchantPulse Demo](screenshot.png)
+![MerchantPulse Demo](Screenshot.png)
 
 ---
 
