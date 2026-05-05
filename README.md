@@ -30,7 +30,7 @@ MerchantPulse uses AI to analyze product reviews and output a structured product
 
 ## Demo
 
-[Live app — Streamlit Community Cloud](#) *(add link after deploying)*
+[Live app — Streamlit Community Cloud](https://merchantpulse.streamlit.app/) 
 
 ---
 
